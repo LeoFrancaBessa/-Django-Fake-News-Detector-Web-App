@@ -14,7 +14,7 @@
 ## Demo
 Link: [https://fake-news-detector-lfb.herokuapp.com/](https://fake-news-detector-lfb.herokuapp.com/)
 
-[![](https://i.imgur.com/XuU4Ki1.png)]https://fake-news-detector-lfb.herokuapp.com/)
+[![](https://i.imgur.com/XuU4Ki1.png)](https://fake-news-detector-lfb.herokuapp.com/)
 
 ## Overview
 This is a classifation app build in the Django Framework. The program receives a raw text (a news text) as a input, then the text is cleaned and fed to the model, in wich predicts if the text
