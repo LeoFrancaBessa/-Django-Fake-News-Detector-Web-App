@@ -1,4 +1,4 @@
-# Diabates Predictor Web App :brazil: 
+# Fake News Detector :brazil: 
 
 ## Table of Content
   * [Demo](#demo)
